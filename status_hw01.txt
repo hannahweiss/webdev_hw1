@@ -18,7 +18,7 @@ https://github.com/hannahweiss/webdev_hw1
 
 
 5. Which parts of this assignment did you have trouble with, if any?
-I had a little trouble figuring out how to connect the domain name and ops, but mostly the assignment went smoothly.
+I had a little trouble figuring out how to connect the domain name and vps, but mostly the assignment went smoothly.
 
 
 And here's a list of tasks for grading comments. Just leave this here:
